@@ -29,7 +29,7 @@ export default function Home() {
       <div className="flex flex-col h-screen">
         <div id="map" className=" flex-1" /> 
         <div className="flex-1">
-          <header className="flex">
+          <header className="flex flex-row justify-center">
             <div className=''>Profile</div>
             <div className=''>Name</div>
             <img></img>
